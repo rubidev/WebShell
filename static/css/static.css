@@ -135,6 +135,9 @@
       color: #ccc;
       text-decoration: underline;
   }
+  .footer {
+      text-align: center;
+  }
 
   @media (max-width: 480px) {
       .shell-container {

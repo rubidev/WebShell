@@ -55,4 +55,4 @@ Author: [Adilhyz](https://adilhyz.github.io)
   </div>
 {% endfor %}
 
-© 2023 <a href="/">Adilhyz</a> All Rights Reserved
+<span class="footer">© 2023 <a href="/">Adilhyz</a> All Rights Reserved</span>
