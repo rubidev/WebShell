@@ -90,9 +90,9 @@
   .shell-card:hover,
   .shell-card:active {
       background-color: rgba(30, 30, 30, 0.67);
-      border: 1px solid 0 4px 10px #b4e853;
+      border: 1px solid #b4e853;
       border-radius: 8px;
-      box-shadow: 0 4px 10pxrgba(86, 170, 78, 0.57);
+      box-shadow: 0 4px 10px rgba(86, 170, 78, 0.57);
   }
 
   .shell-card img {
