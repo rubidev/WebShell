@@ -1,7 +1,5 @@
 
 .navbar {
-    background-color: #111;
-    border-bottom: 1px solid #55aa4e;
     position: sticky;
     top: 0;
     z-index: 1000;

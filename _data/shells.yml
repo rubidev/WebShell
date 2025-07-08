@@ -147,7 +147,7 @@
   name: "Sindbad Mini Shell"
   image: "https://adilhyz.github.io/WebShell/preview/sindbad.webp"
   size: "9kb"
-  version: "-"
+  version: "1.0"
   password: "-"
   download: "https://adilhyz.github.io/WebShell/PHP/mini/Sindbad.php"
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/mini/Sindbad.php"

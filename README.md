@@ -198,7 +198,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 [![Sindbad show](https://adilhyz.github.io/WebShell/preview/sindbad.webp)](https://adilhyz.github.io/WebShell/preview/sindbad.webp)
 
 - **Size:** 9kb
-- **Version:** -
+- **Version:** 1.0
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/Sindbad.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/Sindbad.php)
 
@@ -397,7 +397,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/yon03.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yon03.php)
 
-### Yon3zu Bypass Shell
+### Yami Root Bypass Shell
 
 [![Yami show](https://adilhyz.github.io/WebShell/preview/yami.webp)](https://adilhyz.github.io/WebShell/preview/yami.webp)
 
