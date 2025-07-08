@@ -34,7 +34,7 @@
     bottom: 20px;
     right: 20px;
     background-color: rgba(30, 30, 30, 0.7);
-    color: #ccc;
+    color: #55aa4e;
     padding: 8px 14px;
     border-radius: 48px;
     font-weight: bold;
@@ -47,8 +47,7 @@
 
 .toptop:hover {
     background-color: rgba(30, 30, 30, 0.7);
-    color: #55aa4e;
-    /* Mengubah warna background saat hover */
+    color: #b4e853;
 }
 
 .text { 
