@@ -518,3 +518,5 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/turboforce.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/turboforce.php)
 
 🌀
+
+© 2023 <a href="/">Adilhyz</a> All Rights Reserved

@@ -79,9 +79,9 @@
 
   .shell-card {
       background-color: #1e1e1e;
-      border: 1px solid #55aa4e;
+      border: 0.5px solid #55aa4e;
       border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(181, 232, 83, 0.2);
+      box-shadow: none;
       overflow: hidden;
       display: flex;
       flex-direction: column;
@@ -90,9 +90,9 @@
   .shell-card:hover,
   .shell-card:active {
       background-color: rgba(30, 30, 30, 0.67);
-      border: 1px solid #ccc;
+      border: 1px solid 0 4px 10px #b4e853;
       border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(204, 204, 204, 0.5);
+      box-shadow: 0 4px 10pxrgba(86, 170, 78, 0.57);
   }
 
   .shell-card img {
